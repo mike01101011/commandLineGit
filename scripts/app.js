@@ -11,5 +11,5 @@ $(function(){
 	jQuery.initialize = function () {
 //console.log('02 initialize');
 
-			// jQuery.functionName();
+			jQuery.functionName();
 	};
